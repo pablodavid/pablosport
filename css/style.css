@@ -152,17 +152,17 @@ HEADER
     font-weight: 400;
     text-transform: uppercase;
     background: transparent;
-    color: #fff;
+    color: forestgreen;
     -webkit-transition: color 0.2s ease-out;
     transition: color 0.2s ease-out;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #be9e21;
+    color: limegreen;
     background-color: transparent;
 }
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
     background-color: transparent;
-    color: #be9e21;
+    color: white;
 }
 .banner-info
 {
