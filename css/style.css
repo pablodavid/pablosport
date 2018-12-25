@@ -103,7 +103,7 @@ HEADER
 {
 }
 .navbar-default {
-    background-color: transparent;
+    background-color: rgba(64,75,97, 0.9);
     border:0px;
     padding: 20px 0; 
     transition: all 0.3s;
