@@ -116,11 +116,6 @@ HEADER
 {
     color: forestgreen;
 }
-.pf
-{
-	color: darkgreen;
-	font-weight: bold;
-}
 .navbar-default .navbar-brand {
     color: #fff;
     font-family: 'Raleway', sans-serif;
@@ -663,8 +658,13 @@ contact
     background-color: #fff;
 }
 #footer a{
-    color: #be9e21;
-    font-weight: 400;
+    color: darkgreen;
+    font-weight: bold;
+}
+#footer a:hover{
+	text-decoration: none;
+    color: limegreen;
+    font-weight: bold;
 }
 /***********************************
 ************************************
