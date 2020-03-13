@@ -26,6 +26,22 @@ h1, h2, h3, h4, h5, h6{
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
 }
+.section-pad
+{
+    padding: 150px 0px;
+}
+.section-feature
+{
+    padding: 180px 0px;
+}
+.section-serv
+{
+    padding: 100px 0px;
+}
+.section-trab
+{
+    padding: 70px 0px;
+}
 .section-padding
 {
     /*padding: 100px 0px;*/
