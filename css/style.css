@@ -681,6 +681,15 @@ contact
 {
     color: #be9e21;
 }
+#contact a{
+    color: white;
+    font-weight: bold;
+}
+#contact a:hover{
+	text-decoration: none;
+    color: limegreen;
+    font-weight: bold;
+}
 /***********************************
 ************************************
 contact
